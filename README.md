@@ -59,3 +59,7 @@ yarn start
 - Recuperar Senha
 
 <img alt="Recuperar Senha" src="https://res.cloudinary.com/dpeywfgot/image/upload/v1591699811/Gobarber-web/ResetarSenha_gx5za2.gif">
+
+- Página Principal
+
+<img alt="Página Principal" src="https://res.cloudinary.com/dpeywfgot/image/upload/v1591892816/Gobarber-web/Dashboard_mzeyza.gif">
