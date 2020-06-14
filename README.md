@@ -14,6 +14,20 @@
 
 # 💻 Tecnologias
 
+- [react](https://github.com/facebook/react)
+- [react-dom](https://github.com/facebook/react/tree/master/packages/react-dom)
+- [unform](https://github.com/Rocketseat/unform)
+- [axios](https://github.com/axios/axios)
+- [date-fns](https://date-fns.org/)
+- [polished](https://github.com/styled-components/polished)
+- [react-day-picker](https://react-day-picker.js.org/)
+- [react-icons](https://react-icons.github.io/react-icons/)
+- [react-router-dom](https://reacttraining.com/react-router/web/guides/quick-start)
+- [styled-components](https://styled-components.com/)
+- [uuidv4](https://www.npmjs.com/package/uuidv4)
+- [yup](https://github.com/jquense/yup)
+- [eslint](https://eslint.org/)
+
 # 💻 Pré-Requisitos
 
 - Clone da api
@@ -63,3 +77,7 @@ yarn start
 - Página Principal
 
 <img alt="Página Principal" src="https://res.cloudinary.com/dpeywfgot/image/upload/v1591892816/Gobarber-web/Dashboard_mzeyza.gif">
+
+- Atualização de Perfil
+
+<img alt="Atualização de Perfil" src="https://res.cloudinary.com/dpeywfgot/image/upload/v1592147025/Gobarber-web/Perfil_vcjmg5.gif">
